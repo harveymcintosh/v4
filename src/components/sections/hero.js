@@ -64,11 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a first-year law student at the Queensland University of Technology{' '} (QUT). Currently, I'm focused on gaining experience across a variety of workflows so I can build my area of expertise.
+        I’m a first-year law student at the
         <a href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
           Queensland University of Technology
         </a>
-        .
+        (QUT). Currently, I'm focused on gaining experience across a variety of workflows so I can build my area of expertise.
       </p>
     </>
   );
