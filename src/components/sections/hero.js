@@ -60,15 +60,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Harvey McIntosh.</h2>;
-  const three = <h3 className="big-heading">I .</h3>;
+  const three = <h3 className="big-heading">I deliver results.</h3>;
   const four = (
     <>
       <p>
-        I’m a law studnet at the Queensland University of Technology. specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a first-year law student at the Queensland University of Technology{' '} (QUT). Currently, I'm focused on gaining experience across a variety of workflows so I can build my area of expertise.
+        <a href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
+          Queensland University of Technology
         </a>
         .
       </p>
