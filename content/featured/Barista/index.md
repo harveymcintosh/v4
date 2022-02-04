@@ -1,7 +1,7 @@
 ---
-date: '1'
+date: '3'
 title: 'Barista'
-cover: './coffeeart.jpg'
+cover: './coffee.jpg'
 cta: 'https://www.australianbaristaschool.com.au/?Accredited-Barista-5-Hours-Training---Brisbane;Info;1653'
 external: 'https://www.australianbaristaschool.com.au/?Accredited-Barista-5-Hours-Training---Brisbane;Info;1653'
 tech:

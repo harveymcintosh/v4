@@ -1,15 +1,13 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '1'
+title: 'School Leadership'
+cover: './school.JPG'
+external: 'https://www.stpauls.qld.edu.au/news-events/'
+cta: 'https://www.stpauls.qld.edu.au/news-events/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - 2021: Executive Academic Captain
+  - 2020: Executive Global Citizenship Captain
+  - 2019: Model UN President, Interact Club VP
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Executive Captain for both Year 11 and 12. Managed portfolio with committee of dozens of studnets. Coorinated with student leadership team and staff members.
