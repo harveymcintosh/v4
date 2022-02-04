@@ -64,25 +64,25 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a first-year student, studying a Bacheor of Laws (Honours) at the 
+        I’m a first-year student, studying a Bachelor of Laws (Honours) at the 
         <a href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
           Queensland University of Technology
         </a>
-         I have particular interest in tech, sports and health.
+        . I have particular interest in tech, sports and health.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.tutorfinder.com.au/tutors/detail.php?TutorID=110061"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Hire me as a tutor!
     </a>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, three, four, five];
 
   return (
     <StyledHeroSection>
