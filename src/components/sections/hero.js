@@ -60,15 +60,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Harvey McIntosh.</h2>;
-  const three = <h3 className="big-heading">I deliver results.</h3>;
+  const three = <h3 className="big-heading">I study law.</h3>;
   const four = (
     <>
       <p>
-        I’m a first-year law student at the
+        I’m a first-year law student at the 
         <a href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
           Queensland University of Technology
         </a>
-        (QUT). Currently, I'm focused on gaining experience across a variety of workflows so I can build my area of expertise.
+         (QUT). I have particular interest in tech, sports and health.
       </p>
     </>
   );
