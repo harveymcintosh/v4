@@ -8,5 +8,5 @@ url: 'https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AKI'
 ---
 
 - Write insightful, research-based reports to inform campaign strategy for upcoming elections
-- Work with constituents to direct and resolve enquiries independently and efficiently
+- Work with constituents to direct and resolve enquiries independently and efficiently on behalf of the local Federal Member and Minister for Defence
 - Communicate effectively in multiple ways, including incoming and outgoing calls, email, and in-person
