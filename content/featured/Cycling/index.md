@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Cycling'
-cover: './cycling.JPG'
+cover: './cycling.jpg'
 cta: 'https://www.strava.com/athletes/34406899'
 external: 'https://www.strava.com/athletes/34406899'
 tech:

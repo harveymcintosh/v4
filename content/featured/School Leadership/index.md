@@ -10,4 +10,4 @@ tech:
   - (2019) Model UN President, Interact Club VP
 ---
 
-Executive Captain for both Year 11 and 12. Managed portfolio with committee of dozens of studnets. Coorinated with student leadership team and staff members.
+Executive Captain for both Year 11 and 12. Managed portfolio with committee of dozens of students. Coorinated with student leadership team and staff members.
