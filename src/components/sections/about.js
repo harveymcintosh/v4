@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Tech', 'Sport', 'Medicine'];
+  const skills = ['Tech', 'Cycling', 'Health'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,7 +139,7 @@ const About = () => {
               Hello! My name is Harvey and I'm studying a 
               <a 
                 href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
-                 Bachelor of Laws (Honours)
+                  Bachelor of Laws (Honours)
               </a>
                at QUT, Gardens Point.
 
@@ -158,7 +158,7 @@ const About = () => {
             I'm also available as a private tutor for high school maths and physics, which you can learn more about 
             <a 
                 href="https://www.tutorfinder.com.au/tutors/detail.php?TutorID=110061" target="_blank" rel="noreferrer">
-                 here
+                  here
               </a>
             </p>
 

@@ -2,8 +2,8 @@
 date: '1'
 title: 'School Leadership'
 cover: './school.JPG'
-external: 'https://www.stpauls.qld.edu.au/news-events/'
-cta: 'https://www.stpauls.qld.edu.au/news-events/'
+external: 'https://www.stpauls.qld.edu.au/2021-student-leaders/'
+cta: 'https://www.stpauls.qld.edu.au/2021-student-leaders/'
 tech:
   - (2021) Executive Academic Captain
   - (2020) Executive Global Citizenship Captain

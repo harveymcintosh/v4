@@ -68,7 +68,7 @@ const Hero = () => {
         <a href="https://www.qut.edu.au/" target="_blank" rel="noreferrer">
          Queensland University of Technology
         </a>
-        . Here's some more about me.
+        . Here's a bit about myself.
       </p>
     </>
   );
