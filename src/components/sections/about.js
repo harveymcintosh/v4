@@ -136,12 +136,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Harvey and I'm studying a 
+              Hello! My name is Harvey and I'm studying a
               <a 
                 href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
                   Bachelor of Laws (Honours)
               </a>
-               at QUT, Gardens Point.
+              &nbsp;at QUT, Gardens Point.
 
               As a part of this, I'm undertaking a Minor in Law, Tech and Innovation, and expected to graduate in 2025.
               I'm yet to specialise in one field but hope to work in an area that combines the law with some of my personal interests.
@@ -155,10 +155,10 @@ const About = () => {
 
             <p>
             Currently, I'm working casually alongside my degree.
-            I'm also available as a private tutor for high school maths and physics, which you can learn more about 
+            I'm also available as a private tutor for high school maths and physics, which you can check out 
             <a 
                 href="https://www.tutorfinder.com.au/tutors/detail.php?TutorID=110061" target="_blank" rel="noreferrer">
-                  here
+                &nbps;here
               </a>
             </p>
 
