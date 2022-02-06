@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m an undergraduate law student at the 
-        <a href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
+        <a href="https://www.qut.edu.au/" target="_blank" rel="noreferrer">
          Queensland University of Technology
         </a>
         . Here's some more about me.

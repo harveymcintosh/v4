@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Tech', 'Sport', 'Medicine'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,19 +136,37 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Harvey and...
+              Hello! My name is Harvey and I'm studying a 
+              <a 
+                href="https://www.qut.edu.au/courses/bachelor-of-laws-honours" target="_blank" rel="noreferrer">
+                 Bachelor of Laws (Honours)
+              </a>
+               at QUT, Gardens Point.
+
+              As a part of this, I'm undertaking a Minor in Law, Tech and Innovation, and expected to graduate in 2025.
+              I'm yet to specialise in one field but hope to work in an area that combines the law with some of my personal interests.
             </p>
 
             <p>
-              test {' '}
-              <a href="https://google.com/">url</a>
+              I graduated with the class of 2021 from St Paul's School in Bald Hills, Brisbane.
+              For my senior years, I studied English, Legal Studies, Mathematical Methods, Modern History and Physics.
+              I was privileged to be the Dux of Year 11 and Academic Captain in Year 12.
+            </p>
+
+            <p>
+            Currently, I'm working casually alongside my degree.
+            I'm also available as a private tutor for high school maths and physics, which you can learn more about 
+            <a 
+                href="https://www.tutorfinder.com.au/tutors/detail.php?TutorID=110061" target="_blank" rel="noreferrer">
+                 here
+              </a>
             </p>
 
             <p>
               .
             </p>
 
-            <p>test list:</p>
+            <p>Here are a few of my interests outisde of law:</p>
           </div>
 
           <ul className="skills-list">
