@@ -3,15 +3,13 @@ import React from 'react';
 const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
-    {/* <g transform="translate(-8.000000, -2.000000)">
-      <g transform="translate(11.000000, 5.000000)"> */}
       <g>
       <g>  
     <defs>
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i"); </style>
     </defs>
     <text fill="currentColor">
-        <tspan x="25" y="75" font-size="xxx-large">H</tspan>
+        <tspan x="25" y="60" font-size="xxx-large">H</tspan>
     </text>
 
         {/* <path
