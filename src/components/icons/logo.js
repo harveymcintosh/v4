@@ -10,8 +10,8 @@ const IconLogo = () => (
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i"); </style>
     </defs>
     <text fill="currentColor">
-        {/* <tspan x="15" y="13.25">H</tspan> */}
-        <tspan x="0" y="90">H</tspan>
+        {/* <tspan x="15" y="13.25" font-size="x-large">H</tspan> */}
+        <tspan x="45" y="45">H</tspan>
     </text>
 
         {/* <path
