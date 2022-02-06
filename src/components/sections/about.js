@@ -155,10 +155,10 @@ const About = () => {
 
             <p>
             Currently, I'm working casually alongside my degree.
-            I'm also available as a private tutor for high school maths and physics, which you can check out 
+            I'm also available as a private tutor for high school maths and physics, which you can check out&nbps;
             <a 
                 href="https://www.tutorfinder.com.au/tutors/detail.php?TutorID=110061" target="_blank" rel="noreferrer">
-                &nbps;here
+                here
               </a>
             </p>
 
