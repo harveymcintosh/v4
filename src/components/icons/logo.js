@@ -11,7 +11,7 @@ const IconLogo = () => (
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i"); </style>
     </defs>
     <text fill="currentColor">
-        <tspan x="39" y="45" font-size="xxx-large">H</tspan>
+        <tspan x="19.5" y="39" font-size="xxx-large">H</tspan>
     </text>
 
         {/* <path
