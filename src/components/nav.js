@@ -232,8 +232,8 @@ const Nav = ({ isHome }) => {
                     </div>
                   </CSSTransition>
                 )}
-              </TransitionGroup>
-            </StyledLinks> */}
+              </TransitionGroup>*/}
+            </StyledLinks>
 
             <TransitionGroup component={null}>
               {isMounted && (
